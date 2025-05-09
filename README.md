@@ -2,7 +2,7 @@
 
 Mirai is a case study in decentralized character creation, exploring how AI-powered virtual humans can evolve through meme culture, social platforms, and community-driven IP. It represents a new frontier for virtual identity, where digital beings are not only content creators but autonomous entities with long-term value and potential across Web3 ecosystems.
 
-Mirai is made possible by the collaboration between Aww Inc., who leads her creation, design, and storytelling, and Holoworld AI, who brings her to life as an AI agent with blockchain integration. Together, we're building a new kind of character IP: co-created with the world, powered by AI, and owned onchain.
+Mirai is made possible by the collaboration between Aww Inc., who leads her creation, design, and storytelling, and Holoworld AI, who brings her to life as an AI agent with blockchain integration. Together, we're building a new kind of character IP: co-created with the world, powered by AI, and owned onchain. 
 
 ![image](https://github.com/user-attachments/assets/2e4583cc-74bf-42db-a89c-cc2bb8c0541b)
 
